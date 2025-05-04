@@ -1,5 +1,3 @@
-export const runtime = 'edge'; // Had to add for Cloudflare Pages
-
 import { generateStaticParamsFor, importPage } from 'nextra/pages'
 import { useMDXComponents as getMDXComponents } from '../../mdx-components'
 
