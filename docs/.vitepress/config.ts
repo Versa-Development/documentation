@@ -4,7 +4,7 @@ export default {
   lang: 'en-US',
   cleanUrls: true,
   // If this is disabled, when building it it will give deadlink errors if your markdown has the wrong links
-  ignoreDeadLinks: 'all',
+  ignoreDeadLinks: true,
   
   themeConfig: {
     logo: "/logo-big.png",
@@ -18,7 +18,7 @@ export default {
       {
         text: "Products",
         items: [
-          { text: "Versa Panel", link: "/panel/intro" },
+          { text: "Versa Panel", link: "./panel/intro" },
         ],
       },
     ],

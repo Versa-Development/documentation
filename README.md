@@ -17,8 +17,6 @@ npm install
 npm run docs:dev
 ```
 
-Visit [https://localhost:5173](https://localhost:5173) to see your site
-
 ## Build
 You may run this command to build the docs
 
