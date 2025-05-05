@@ -42,7 +42,7 @@ head:
       content: Versa Documentation
   - - meta
     - property: og:image
-      content: https://docs.versadevelopment.net/public/logo.png
+      content: https://docs.versadevelopment.net/logo.png
   - - meta
     - property: og:url
       content: https://versadevelopment.net
@@ -51,7 +51,7 @@ head:
       content: Versa Documentation
   - - meta
     - name: twitter:card
-      content: https://docs.versadevelopment.net/public/logo.png
+      content: https://docs.versadevelopment.net/logo.png
   - - link
     - rel: icon
       type: image/png
