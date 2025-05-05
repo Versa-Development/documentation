@@ -18,8 +18,10 @@ npm run docs:dev
 ```
 
 ## Build
-You may run this command to build the docs
+You may run this command to build the docs. Make sure you are in the /docs directory
 
 ```bash
+cd docs
+
 npm run docs:build
 ```
