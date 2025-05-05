@@ -26,6 +26,7 @@ export default {
     socialLinks: [
       { icon: "github", link: "https://github.com/versa-development" },
       { icon: "twitter", link: "https://x.com/versa_software" },
+      { icon: "youtube", link: "https://www.youtube.com/@versadevelopment" },
       { icon: "discord", link: "https://discord.gg/FsrujTDbvg" },
       /* {
         icon: {
