@@ -15,6 +15,7 @@ export default {
     // Navbar Link
     nav: [
       { text: "Home", link: "/" },
+      { text: "Discord", link: "https://discord.gg/FsrujTDbvg" },
       {
         text: "Products",
         items: [
