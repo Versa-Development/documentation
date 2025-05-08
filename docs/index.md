@@ -20,8 +20,8 @@ hero:
 # Features section
 features:
   - icon: 💻
-    title: <a href="/panel/intro">Versa Panel</a>
-    details: The All-in-One Versatile Panel for Game Server Management 
+    title: <RouterLink to="/panel/intro">Versa Panel</RouterLink>
+    details: The All-in-One Versatile Panel for Game Server Management
   - icon: 👀
     title: Coming Soon
     details: Coming Soon
