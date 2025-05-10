@@ -21,7 +21,7 @@ hero:
 features:
   - icon: 💻
     title: <a href="/panel/intro">Versa Panel</a>
-    details: The All-in-One Versatile Panel for Game Server Management 
+    details: The All-in-One Versatile Panel for Game Server Management
   - icon: 👀
     title: Coming Soon
     details: Coming Soon

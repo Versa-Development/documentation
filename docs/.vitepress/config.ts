@@ -19,7 +19,7 @@ export default {
       {
         text: "Products",
         items: [
-          { text: "Versa Panel", link: "./panel/intro" },
+          { text: "Versa Panel", link: "/panel/intro" },
         ],
       },
     ],
